@@ -15,4 +15,5 @@ public class AppTest {
              s
  
     }
+    System.out.printlnt("this is a test");
 }
